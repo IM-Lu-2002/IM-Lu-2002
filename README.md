@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
     <img src="https://via.placeholder.com/1000x5/00FF00/00FF00.png" alt="light green divider"/>
 </p>
 
